@@ -1,0 +1,27 @@
+.Headers{
+    color:red;
+    
+  }
+  
+  *{
+    margin: 10px;
+    background-color: black;
+    
+  }
+
+  .Container{
+      width: 50px;
+      color: white;
+      background-color: blueviolet;
+  }
+
+  p{
+      color:yellow;
+  }
+
+  .BB{
+      width:30px;
+      padding: 40px;
+      background-color: blue;
+      border-radius: 100px;
+  }
